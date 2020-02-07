@@ -1,2 +1,3 @@
 # cookiecord-generator
-Generates cookiecord projects
+
+Generates cookiecord projects.
