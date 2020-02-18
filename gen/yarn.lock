@@ -95,10 +95,10 @@ combined-stream@^1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-cookiecord@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/cookiecord/-/cookiecord-0.0.7.tgz#9fcfa9ea29af744a1b2c9eeed667706c8abc9979"
-  integrity sha512-qCztDwtnW60k61C9hVGK9XcQvzCD6MkeC43hUERFai6+pGa534GIJi2iLeI/DSX+vQawqGEie40MVqk/arkO0A==
+cookiecord@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/cookiecord/-/cookiecord-0.0.8.tgz#c3e959d97d947094ebee1cca93a737cc00134e8e"
+  integrity sha512-AGSU7JkwSoHUyWVnx/kgGNmt6pWLeYliBYcSg1B0sPLfuXTJR/ovUFXmwu6y3R/ECVa1F8hDCKQKCnDp5lxbag==
   dependencies:
     chokidar "^3.3.1"
     discord.js discordjs/discord.js
@@ -124,11 +124,10 @@ discord.js@discordjs/discord.js:
     abort-controller "^3.0.0"
     form-data "^2.3.3"
     node-fetch "^2.3.0"
-    pako "^1.0.8"
     prism-media "^1.0.0"
     setimmediate "^1.0.5"
     tweetnacl "^1.0.1"
-    ws "^6.1.3"
+    ws "^7.2.0"
 
 dotenv-safe@^8.2.0:
   version "8.2.0"
