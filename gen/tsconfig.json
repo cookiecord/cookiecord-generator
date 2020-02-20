@@ -19,7 +19,6 @@
         "outDir": "./dist" /* Redirect output structure to the directory. */,
         "rootDirs": [
             "./src",
-            "./example"
         ] /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
         // "composite": true,                     /* Enable project compilation */
         // "tsBuildInfoFile": "./",               /* Specify file to store incremental compilation information */
