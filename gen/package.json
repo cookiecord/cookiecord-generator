@@ -7,7 +7,7 @@
         "@types/dotenv-safe": "^8.1.0",
         "@types/node": "^13.7.0",
         "@types/ws": "^7.2.1",
-        "cookiecord": "^0.1.12",
+        "cookiecord": "^0.2.12",
         "dotenv-safe": "^8.2.0",
         "ts-node": "^8.6.2",
         "typescript": "^3.7.5"
