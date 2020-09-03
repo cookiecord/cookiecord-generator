@@ -16,22 +16,22 @@
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
 
-"@types/dotenv-safe@^8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@types/dotenv-safe/-/dotenv-safe-8.1.0.tgz#751ef7ed9875b0d2978ff0b176514cce550e08ed"
-  integrity sha512-9jrQ3T4zlDWuP0kht7UgGA9M6D1/HS8feA0OMwzZtPEGrUPU333RWvIJ+DkbzrSazhnUQAjAi5PB69/JsMqShg==
+"@types/dotenv-safe@^8.1.1":
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/@types/dotenv-safe/-/dotenv-safe-8.1.1.tgz#2d7248ed4ad969c41d85586266ad64e9a3603ad4"
+  integrity sha512-JOJuWwYaRinKl3UdmTivWgXO66dKpGW67NaYRMSMjKsNjF+MTsnc/T656I8eNGokIHVLihkY1kx96Ho3l8vfqQ==
   dependencies:
     dotenv "^8.2.0"
 
-"@types/node@*", "@types/node@^13.7.0":
-  version "13.7.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.0.tgz#b417deda18cf8400f278733499ad5547ed1abec4"
-  integrity sha512-GnZbirvmqZUzMgkFn70c74OQpTTUcCzlhQliTzYjQMqg+hVKcDnxdL19Ne3UdYzdMA/+W3eb646FWn/ZaT1NfQ==
+"@types/node@*", "@types/node@^14.6.3":
+  version "14.6.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.6.3.tgz#cc4f979548ca4d8e7b90bc0180052ab99ee64224"
+  integrity sha512-pC/hkcREG6YfDfui1FBmj8e20jFU5Exjw4NYDm8kEdrW+mOh0T1Zve8DWKnS7ZIZvgncrctcNCXF4Q2I+loyww==
 
-"@types/ws@^7.2.1":
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-7.2.1.tgz#b800f2b8aee694e2b581113643e20d79dd3b8556"
-  integrity sha512-UEmRNbXFGvfs/sLncf01GuVv6U1mZP3Df0iXWx4kUlikJxbFyFADp95mDn1XDTE2mXpzzoHcKlfFcbytLq4vaA==
+"@types/ws@^7.2.6":
+  version "7.2.6"
+  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-7.2.6.tgz#516cbfb818310f87b43940460e065eb912a4178d"
+  integrity sha512-Q07IrQUSNpr+cXU4E4LtkSIBPie5GLZyyMC1QtQYRLWz701+XcoVygGUZgvLqElq1nU4ICldMYPnexlBsg3dqQ==
   dependencies:
     "@types/node" "*"
 
@@ -99,10 +99,10 @@ combined-stream@^1.0.8:
   dependencies:
     delayed-stream "~1.0.0"
 
-cookiecord@^0.2.15:
-  version "0.2.15"
-  resolved "https://registry.yarnpkg.com/cookiecord/-/cookiecord-0.2.15.tgz#387e1380406809a2c7631e1e053c2c45ff048b64"
-  integrity sha512-Y4mq7wiGT5xv/tiBH5f3smCHcrwLjryZOCfy6PZDuHvbL5wsdyKP8Pv86jdhg0TTLJP1wIXwu/k8L8tRzylskQ==
+cookiecord@^0.3.15:
+  version "0.3.15"
+  resolved "https://registry.yarnpkg.com/cookiecord/-/cookiecord-0.3.15.tgz#d2f10836f45408a4ce91509e7d0a021e67e58886"
+  integrity sha512-iBxiHklxXd6jX9nDmRckwl0aQtHWM5IUE5okNj3Rv/VE/9goep7JGd4Hlq7biYNxCoeu3IcjtbbUXfEghHs5jg==
   dependencies:
     chokidar "^3.3.1"
     discord.js discordjs/discord.js#stable
