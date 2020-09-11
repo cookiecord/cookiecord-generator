@@ -1,6 +1,6 @@
 {
     "name": "cookiecord-generator",
-    "version": "0.3.16-r2",
+    "version": "0.3.17",
     "main": "index.js",
     "repository": "git@github.com:cookiecord/cookiecord-generator.git",
     "author": "Ron B <me@ronthecookie.me>",
