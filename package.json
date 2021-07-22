@@ -2,8 +2,8 @@
     "name": "cookiecord-generator",
     "version": "0.5.18",
     "main": "index.js",
-    "repository": "git@github.com:cookiecord/cookiecord-generator.git",
-    "author": "Ron B <me@ronthecookie.me>",
+    "repository": "https://github.com/cookiecord/cookiecord-generator",
+    "author": "ckie <npm-12fb912@ckie.dev>",
     "license": "GPL-3.0",
     "bin": "bin.js",
     "dependencies": {
