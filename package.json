@@ -1,6 +1,6 @@
 {
     "name": "cookiecord-generator",
-    "version": "0.7.18",
+    "version": "0.8.18",
     "main": "index.js",
     "repository": "https://github.com/cookiecord/cookiecord-generator",
     "author": "ckie <npm-12fb912@ckie.dev>",
